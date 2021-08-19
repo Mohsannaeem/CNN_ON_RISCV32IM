@@ -1,0 +1,3 @@
+keras:
+gcc main.c activation.c conv.c convolution.c datachunk.c dense.c flatten.c newvariable.c pooling.c 
+
