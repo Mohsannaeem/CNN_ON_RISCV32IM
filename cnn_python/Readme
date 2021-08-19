@@ -1,0 +1,8 @@
+Version
+  Theano Version =  0.9.0
+  Keras Version  =  1.2.2
+  Python Version =  2.7.16(I think its Option ..But not sure ) 
+   You can Show  version  using 
+      pip show theano 
+      pip show keras
+      
